@@ -15,11 +15,10 @@
     content: "Comprar";
     display: block;
     padding: 10px 0;
-    background: #000;
+    background: #47BE4C;
     color: #fff;
     border-radius: 5px;
     width: 80%;
     margin: 0 auto 20px;
     text-transform: uppercase;
-    font-weight: bold;
 }

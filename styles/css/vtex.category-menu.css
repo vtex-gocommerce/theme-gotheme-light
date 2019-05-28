@@ -1,11 +1,10 @@
 .itemContainer > a, .itemContainer > span {
-    color: #fff; 
+    color: #666; 
     font-size: 16px;
     font-weight: 500;
 }
 
 .container {
-    background-color: #000;
     display: block;
 }
 
