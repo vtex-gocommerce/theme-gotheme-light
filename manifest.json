@@ -1,6 +1,6 @@
 {
   "vendor": "gocommerce",
-  "name": "go-theme",
+  "name": "go-theme-light",
   "version": "1.0.1",
   "title": "GoTheme Light",
   "builders": {
