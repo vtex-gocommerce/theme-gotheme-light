@@ -1121,6 +1121,7 @@
   },
   "footer-row#2-mobile": {
     "children": [
+      "menu.content",
       "vtex.menu@2.x:menu#Products",
       "vtex.menu@2.x:menu#footer-decoration"
     ],
