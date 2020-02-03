@@ -38,6 +38,7 @@
     "vtex.store-drawer": "0.x",
     "vtex.breadcrumb": "1.x",
     "vtex.telemarketing": "2.x",
+    "vtex.order-placed": "1.x",
     "vtex.checkout-summary": "0.x",
     "vtex.product-list": "0.x",
     "vtex.add-to-cart-button": "0.x",
