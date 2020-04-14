@@ -57,7 +57,7 @@
         "background": {
           "base": "#ffffff",
           "base--inverted": "#3f3f40",
-          "action-primary": "#666",
+          "action-primary": "#47be4d",
           "action-secondary": "#fff",
           "emphasis": "#666",
           "disabled": "#f2f4f5",
@@ -149,7 +149,7 @@
           "warning--faded": "#fff6e0"
         },
         "border": {
-          "action-primary": "#666",
+          "action-primary": "#47be4d",
           "action-secondary": "#666",
           "emphasis": "#666",
           "disabled": "#e3e4e6",
