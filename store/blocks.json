@@ -1,11 +1,7 @@
 {
   "store.home": {
     "blocks": [
-      "carousel#home",
       "__fold__.experimentalLazyAssets",
-      "flex-layout.row#tarja",
-      "flex-layout.row#carousel",
-      "__fold__",
       "rich-text#categoryTitle",
       "search-result#home",
       "newsletter"
